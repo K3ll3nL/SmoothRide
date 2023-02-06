@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "SmoothRide",
+    "slug": "SmoothRide",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "ios": {
+    "config": {
+      "googleMapsApiKey": "AIzaSyARpyYOqJ5QirvqpdH71xDAEGqCEBHS9ls"
+    }
+  },
+  "android": {
+    "config": {
+      "googleMaps": {
+        "apiKey": "AIzaSyARpyYOqJ5QirvqpdH71xDAEGqCEBHS9ls"
+      }
+    }
+  },
+  "name": "SmoothRide"
+}
